@@ -10,7 +10,7 @@ If you use this resource, please cite our work
 @article{nguyen2021ntuviral,
   title={NTU VIRAL: A Visual-Inertial-Ranging-Lidar dataset, from an aerial vehicle viewpoint},
   author={Thien-Minh Nguyen, Shenghai Yuan, Muqing Cao, Yang Lyu, Thien Hoang Nguyen, Lihua Xie},
-  journal={arXiv preprint},
+  journal={Submitted to IJRR},
   year={2021}
 }
 ```
