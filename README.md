@@ -2,7 +2,7 @@
 
 Driver for humatics scholar P440 UWB radios. Used in NTU VIRAL DATASET
 
-Please find the instruction for usage at our [web page](https://ntu-aris.github.io/ntu_viral_dataset/evaluation_tutorial.html)
+Please find the instruction for usage at our [web page](https://ntu-aris.github.io/ntu_viral_dataset/sensors_and_usage#uwb)
 
 If you use this resource, please cite our work
 
