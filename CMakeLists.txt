@@ -15,7 +15,6 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
   message_generation
-  serial
   geometry_msgs
   cmake_modules
 )
